@@ -3,7 +3,7 @@
 * Nama  : Monica Briliane Putri
 * Kelas : XII RPL 6
 * Absen : 22
-* NIS   : 4648/1367.070
+* NIS   : 4758/1477.070
 * Sekolah : SMK Telkom Malang
  
 ## Screenshot Aplikasi
